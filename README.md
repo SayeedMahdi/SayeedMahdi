@@ -1,16 +1,16 @@
-### Hi there 👋
+Hi, I'm Mahdi Mousavi! 👋
+🚀 About Me
+I'm a node back end developer in Tutia company. I studied Nodejs express And have many projects in Nodejs. alson i can help in such that kinds of projects.
 
-<!--
-**SayeedMahdi/SayeedMahdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔗 Links
+linkedin
 
-Here are some ideas to get you started:
+Other Common Github Profile Sections
+👩‍💻 I'm currently working on Tasl_manager project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 I'm currently learning Node.js
+
+🤔 I'm looking for help with node js projects
+
+🛠 Skills
+node js,Javascript, HTML, CSS,bootsrap,jQuery
