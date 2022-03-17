@@ -1,5 +1,5 @@
 
-# Hi, I'm Mahdi Mousavi! 👋
+# Hi, I'm Sayeed Mahdi Mousavi! 👋
 
 
 ## 🚀 About Me
@@ -12,10 +12,7 @@ alson i can help in such that kinds of projects.
 
 🧠 I'm currently learning Node.js 
 
-
-
 🤔 I'm looking for help with node js projects
-
 
 
 
