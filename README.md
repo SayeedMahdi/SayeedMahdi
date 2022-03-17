@@ -7,6 +7,7 @@ I'm a node back end developer in Tutia company. I studied Nodejs express And hav
 linkedin
 
 Other Common Github Profile Sections
+
 👩‍💻 I'm currently working on Tasl_manager project
 
 🧠 I'm currently learning Node.js
