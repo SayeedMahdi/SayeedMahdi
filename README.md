@@ -17,7 +17,12 @@ alson i can help in such that kinds of projects.
 
 
 ## 🛠 Skills
-node js,Javascript, HTML, CSS,bootsrap,jQuery
+ - node js
+ - Javascript
+ -  HTML
+ -   CSS
+ -   bootsrap
+ -   jQuery
 
 
 ## 🔗 Links
