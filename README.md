@@ -8,9 +8,9 @@ alson i can help in such that kinds of projects.
 
 
 
-👩‍💻 I'm currently working on Task_manager project
+👩‍💻 I'm currently working on React Testing Projects
 
-🧠 I'm currently learning Node.js 
+🧠 I'm currently learning Node.js and React
 
 🤔 I'm looking for help with node js projects
 
