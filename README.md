@@ -1,6 +1,6 @@
 
 # Hi, I'm Sayeed Mahdi Mousavi! 👋
-|[![Zia Yamin's github stats](https://github-readme-stats.vercel.app/api?username=SayeedMahdi&count_private=true&show_icons=true&theme=react)](https://github.com/SayeedMahdi/github-readme-stats)%7C
+|[![Sayeed Mahdi's github stats](https://github-readme-stats.vercel.app/api?username=SayeedMahdi&count_private=true&show_icons=true&theme=react)](https://github.com/SayeedMahdi/github-readme-stats)%7C
 
 ## 🚀 About Me
 I'm a node back end  developer in Tutia company. I studied Nodejs express And have many projects in Nodejs.
