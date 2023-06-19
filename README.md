@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there👋, I'm Sayeed Mahdi Mousavi</h1>
 <h3 align="center">A computer Sofware Engineer in Herat. 🤚</h3>
 
-<p align="center">Currently 👦🏻, I am a  employee at Raha.net as backend Node Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I Can manage hard backend logics.</p>
+<p align="center">Currently 👦🏻, I am an  employee at Raha.net as a backend Node Developer. I have a great passion for learning languages, frameworks, and new technologies. In addition to that, I Can manage hard backend logic.</p>
 
 <a href="https://www.youtube.com/watch?v=2cfV8cwz7wo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -23,6 +23,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/-Node-0512A?style=flat&logo=-Node&logoColor=white) &nbsp;
+![Next](https://img.shields.io/badge/-Next-0512A?style=flat&logo=-Next&logoColor=white) &nbsp;
 ![Express](https://img.shields.io/badge/-Express-983499?style=flat&logo=Express&logoColor=#FF2333) &nbsp;
 ![Mongodb](https://img.shields.io/badge/mongodb-%2354532.svg?style=flat&logo=mongodb&logoColor=green)&nbsp;
 
@@ -34,7 +35,7 @@
 
 - 🎓 I am in 6th Semester in Herat University.
 
-- 👩‍💻 I’m currently working as backend deveoper in Rahanet.co
+- 👩‍💻 I’m currently working as a backend developer in Rahanet.co
 
 - 🌱 I’m currently learning Javascript.
 
@@ -42,9 +43,9 @@
 
 - 👯 I’m looking to collaborate on Web Projects
 
-- 📫 Reach me on: 📧 sayeedmahdimousavi789@gmail.com
+- 📫 Reach me on 📧 sayeedmahdimousavi789@gmail.com
 
-- ✨ Interests: coding, reading books, footBall, .
+- ✨ Interests: coding, reading books, football.
 
 
 
@@ -77,9 +78,11 @@
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg" alt="tailwind" title="tailwind" />
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" alt="Node" title="Node" />
-	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Node" title="express" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="Next" title="Next" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="express" title="express" />
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mongodb.svg" alt="Node" title="Mongo" />
 </div>
 </p>
