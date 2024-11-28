@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there👋, I'm Sayeed Mahdi Mousavi</h1>
 <h3 align="center">A computer Sofware Engineer in Herat. 🤚</h3>
 
-<p align="center">Currently 👦🏻, I am an  employee at Raha.net as a backend Node Developer. I have a great passion for learning languages, frameworks, and new technologies. In addition to that, I Can manage hard backend logic.</p>
+<p align="center">Currently 👦🏻, I am an self employee as a fullstack web Developer. I have a great passion for learning languages, frameworks, and new technologies. In addition to that, I Can manage hard backend logic.</p>
 
 <a href="https://www.youtube.com/watch?v=2cfV8cwz7wo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
